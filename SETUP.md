@@ -24,3 +24,8 @@ linked this to [remote git repository](https://github.com/harshkasyap/inlab) squ
 
         * above commands will be useful if we messed up while init, clone, merge, squash, push
         * For md file help check [markdown-cheatsheets](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+
+## Deployment
+
+Refer [Angular Deployment Documentation](https://angular.io/guide/deployment),
+I faced issued to resolve base href, came to know it should be repo name, [help](https://github.com/angular/angular-cli/issues/1080)
