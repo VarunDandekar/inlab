@@ -2,7 +2,8 @@
 
 ## Create new App
 
-ng new inlab
+* npm install @anglar/cli
+* ng new inlab
 
 ## Version control 
 
